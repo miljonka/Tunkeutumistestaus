@@ -8,5 +8,5 @@ Linkit tehtäviin alla.
 
 ### Tehtävät
 
-[h0_Sieppari](https://github.com/miljonka/Tunkeutumistestaus/wiki/h0-Sieppari-ruispellossa)
-[h1_OmaLabra]https://github.com/miljonka/Tunkeutumistestaus/wiki/OmaLabra
+[h0_Sieppari](https://github.com/miljonka/Tunkeutumistestaus/wiki/h0-Sieppari-ruispellossa) \
+[h1_OmaLabra](https://github.com/miljonka/Tunkeutumistestaus/wiki/h1_OmaLabra)
