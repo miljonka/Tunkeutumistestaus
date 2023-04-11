@@ -9,4 +9,5 @@ Linkit tehtäviin alla.
 ### Tehtävät
 
 [h0_Sieppari](https://github.com/miljonka/Tunkeutumistestaus/wiki/h0-Sieppari-ruispellossa) \
-[h1_OmaLabra](https://github.com/miljonka/Tunkeutumistestaus/wiki/h1_OmaLabra)
+[h1_OmaLabra](https://github.com/miljonka/Tunkeutumistestaus/wiki/h1_OmaLabra) \
+[h2_Totally-Legit-Sertificate](https://github.com/miljonka/Tunkeutumistestaus/wiki/h2_Totally-Legit-Sertificate)
