@@ -12,4 +12,5 @@ Linkit tehtäviin alla.
 [h1_OmaLabra](https://github.com/miljonka/Tunkeutumistestaus/wiki/h1_OmaLabra) \
 [h2_Totally-Legit-Sertificate](https://github.com/miljonka/Tunkeutumistestaus/wiki/h2_Totally-Legit-Sertificate) \
 [h3_the-Box](https://github.com/miljonka/Tunkeutumistestaus/wiki/h3_The-Box) \
-[h4_Sequel Fish](https://github.com/miljonka/Tunkeutumistestaus/wiki/h4_Sequel-fish)
+[h4_Sequel Fish](https://github.com/miljonka/Tunkeutumistestaus/wiki/h4_Sequel-fish) \
+[h5_Final Countdown](https://github.com/miljonka/Tunkeutumistestaus/wiki/h5_Final-Countdown)
