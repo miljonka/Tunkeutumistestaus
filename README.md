@@ -8,8 +8,8 @@ Linkit tehtäviin alla.
 
 ### Tehtävät
 
-[h0_Sieppari](https://github.com/miljonka/Tunkeutumistestaus/wiki/h0-Sieppari-ruispellossa) \
-[h0_Sieppari](https://github.com/miljonka/Tunkeutumistestaus/wiki/h0_Sieppari-ruispellossa)
+
+[h0_Sieppari](https://github.com/miljonka/Tunkeutumistestaus/wiki/h0_Sieppari-ruispellossa) \
 [h1_OmaLabra](https://github.com/miljonka/Tunkeutumistestaus/wiki/h1_OmaLabra) \
 [h2_Totally-Legit-Sertificate](https://github.com/miljonka/Tunkeutumistestaus/wiki/h2_Totally-Legit-Sertificate) \
 [h3_the-Box](https://github.com/miljonka/Tunkeutumistestaus/wiki/h3_The-Box) \
